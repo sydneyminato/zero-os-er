@@ -1,4 +1,4 @@
-# Zero OS v0.5: Edited Reality Magick
+# Zero OS v0.5: Edited Reality Magick for Permission
 
 **Zero OS** は、既存のOSという「編集済み現実」を解体し、ハードウェアとのダイレクトな対話を通じて「現実を再編集」するための、Rust製最小構成カーネルです。
 
