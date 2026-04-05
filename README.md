@@ -1,7 +1,6 @@
 # Zero OS v0.5: Edited Reality Magick for Permission
 
-![Zero OS First Boot](<img width="722" height="429" alt="スクリーンショット 2026-04-06 5 02 50" src="https://github.com/user-attachments/assets/8b044c56-ae2e-44e7-bf35-914c28607d20" />
-)
+<img width="722" height="429" alt="スクリーンショット 2026-04-06 5 02 50" src="https://github.com/user-attachments/assets/b75de52e-e25f-4faf-976d-ef06392b3abc" />
 
 > **"A collision of two realities."**
 > QEMUのBIOSメッセージの上に、Zero OSが直接意志を書き込んだ、記念すべき最初の起動画面。
